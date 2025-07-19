@@ -6,12 +6,15 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ## 🧑‍💻 About Me
 
-I'm a Full Stack Developer with a strong foundation in both object-oriented programming and web development. I thrive on solving complex problems and continuously learning new technologies.
+Hey! I'm Luca, a Full Stack Developer with a deep passion for programming and technology. Ever since I wrote my first lines of code, I’ve been fascinated by how things work under the hood—whether it's building responsive web apps, designing scalable backend systems, or experimenting with game engines.
 
-- 🔭 Currently working on: Enhancing my skills in scalable backend architecture
-- 🌱 Exploring: Microservices and distributed systems
-- 💬 Ask me about: Full stack development, clean code, and system design
-- ⚡ Fun fact: I love reverse-engineering video games for fun!
+I genuinely enjoy the entire development process, from brainstorming ideas to shipping working software. Lately, I’ve been diving deeper into system architecture and distributed systems, but I also have a special place in my heart for **game development**. There's something incredibly rewarding about bringing interactive experiences to life, and I love exploring engines like Unity, Godot, and Unreal whenever I get the chance.
+
+- 🔭 Currently working on: Enhancing my skills in scalable backend architecture  
+- 🌱 Exploring: Microservices and distributed systems  
+- 💬 Ask me about: Full stack development, clean code, and game programming  
+- ⚡ Fun fact: I love reverse-engineering video games just to understand how they were made!
+
 
 ---
 
